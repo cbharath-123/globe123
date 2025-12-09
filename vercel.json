@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd globoneox-homepage && npm run build",
+  "outputDirectory": "globoneox-homepage/.next",
+  "installCommand": "cd globoneox-homepage && npm install",
+  "framework": "nextjs"
+}
